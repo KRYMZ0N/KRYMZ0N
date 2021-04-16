@@ -10,5 +10,6 @@ Some projects I have been working on include various spigot plugins for my Minec
 ## Info
 Discord - KRYMZ0N#7482
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KRYMZ0N&show_icons=true&theme=prussian&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&show_icons=true&theme=dark"></p>
+<p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&theme=dark"></p>
 
