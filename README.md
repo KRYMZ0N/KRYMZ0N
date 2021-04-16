@@ -12,5 +12,5 @@ Discord - KRYMZ0N#7482
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&show_icons=true&theme=dark"></p>
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&theme=dark"></p>
-<p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&theme=dark"></p>
+<p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
 
