@@ -1,16 +1,14 @@
-### Hi there 👋
+## KRYMZ0N
+Hello, I'm KRYMZ0N. Ever since I was young I have always been fascinated by computer sciences, but I never thought I'd ever get into it. Around about a year ago, I was put into a computer programming class where I learned HTML, CSS, and JavaScript. Ever since then, I have been learning more and more languages and working on projects during most of my free time!
 
-<!--
-**KRYMZ0N/KRYMZ0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+Some languages I know include Java, JavaScript, Python, HTML, CSS, and NodeJS! I plan on getting into C, C++, C#, and possibly Go!
 
-Here are some ideas to get you started:
+## Projects
+Some projects I have been working on include various spigot plugins for my Minecraft Server 16b16t.net, and a couple forge mods/ Hacked clients for Anarchy Servers. Xenophyre is one of those projects that I have been working on recently. Xenophyre is a Minecraft Utility mod for 1.12.2 that is designed for Anarchy servers such as 2b2t!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Info
+Discord - KRYMZ0N#7482
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KRYMZ0N&show_icons=true&theme=prussian&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
