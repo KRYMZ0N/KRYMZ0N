@@ -5,7 +5,7 @@ Hello, I'm KRYMZ0N. Ever since I was young I have always been fascinated by comp
 Some languages I know include Java, JavaScript, HTML, CSS, and NodeJS! I am also in the process of learning Python! I plan on getting into C, C++, C#, and possibly Go!
 
 ## Projects
-Some projects I have been working on include various spigot plugins for my Minecraft Server 16b16t.net, and a couple forge mods/ Hacked clients for Anarchy Servers. Xenophyre is one of those projects that I have been working on recently. Xenophyre is a Minecraft Utility mod for 1.12.2 that is designed for Anarchy servers such as 2b2t!
+Some projects I have been working on include various spigot plugins for my Minecraft Server 3b3t.me, and a couple forge mods/ Hacked clients for Anarchy Servers. Xenophyre is one of those projects that I have been working on recently. Xenophyre is a Minecraft Utility mod for 1.12.2 that is designed for Anarchy servers such as 2b2t!
 
 ## Info
 Discord - KRYMZ0N#7482
