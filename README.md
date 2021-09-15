@@ -8,7 +8,7 @@ Some languages I know include Java, JavaScript, HTML, CSS, and NodeJS! I am also
 Some projects I have been working on include various spigot plugins for my Minecraft Server 3b3t.me, and a couple forge mods/ Hacked clients for Anarchy Servers. Xenophyre is one of those projects that I have been working on recently. Xenophyre is a Minecraft Utility mod for 1.12.2 that is designed for Anarchy servers such as 2b2t!
 
 ## Info
-Discord - KRYMZ0N#7482
+Discord - KRYMZ0N#0001
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
 <p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
