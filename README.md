@@ -1,14 +1,18 @@
 ## KRYMZ0N
-Hello, I'm KRYMZ0N. Ever since I was young I have always been fascinated by computer sciences, but I never thought I'd ever get into it. Around about a year ago, I was put into a computer programming class where I learned HTML, CSS, and JavaScript. Ever since then, I have been learning more and more languages and working on projects during most of my free time!
-
+Hello, I'm KRYMZ0N. I mainly do Minecraft stuff such as plugins and Mods, however I have experience with random other things as well.
 ## Languages
-Some languages I know include Java, JavaScript, HTML, CSS, and NodeJS! I am also in the process of learning Python! I plan on getting into C, C++, C#, and possibly Go!
+I am pretty good with Java, and I am alright with Javascript and Python. 
+I would like to get better at HTML, CSS.
+I would also like to learn C, C#, and C++
 
 ## Projects
-Some projects I have been working on include various spigot plugins for my Minecraft Server 3b3t.me, and a couple forge mods/ Hacked clients for Anarchy Servers. Xenophyre is one of those projects that I have been working on recently. Xenophyre is a Minecraft Utility mod for 1.12.2 that is designed for Anarchy servers such as 2b2t!
+My main project right now is SimpleExploit fixer, It seeks to patch many exploits mainly lag inducing ones! If you would like to report an exploit, you can make a pull request, or you can contact me in one of the methods below. 
+
+Another project that I have been working on is a 1.16 Fabric Utility Mod called VyperHax!
 
 ## Info
 Discord - KRYMZ0N#0001
+Email - 3b3t.me@gmail.com
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
 <p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
