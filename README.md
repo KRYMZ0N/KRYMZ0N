@@ -2,7 +2,9 @@
 Hello, I'm KRYMZ0N. I mainly do Minecraft stuff such as plugins and Mods, however I have experience with random other things as well.
 ## Languages
 I am pretty good with Java, and I am alright with Javascript and Python. 
+
 I would like to get better at HTML, CSS.
+
 I would also like to learn C, C#, and C++
 
 ## Projects
