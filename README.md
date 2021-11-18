@@ -15,6 +15,8 @@ Another project that I have been working on is a 1.16 Fabric Utility Mod called 
 ## Info
 Discord - KRYMZ0N#0001
 
+Server - https://discord.gg/fustWrP4
+
 Email - 3b3t.me@gmail.com
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
