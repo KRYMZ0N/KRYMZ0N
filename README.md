@@ -20,7 +20,8 @@ Server - https://discord.gg/fustWrP4
 Email - 3b3t.me@gmail.com
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
-<p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&text_color=5baddf&icon_color=FFF&theme=jolly""></p>
+  
+  <p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
 
