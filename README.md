@@ -25,3 +25,7 @@ Email - 3b3t.me@gmail.com
   
   <p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
 
+## Custom Software
+Yes, I do custom stuff, however I do charge depending on the difficulty
+Of the assignment. Message me in one of the ways listed for more.
+
