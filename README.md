@@ -1,11 +1,11 @@
 ## KRYMZ0N
 Hello, I'm KRYMZ0N. I mainly do Minecraft stuff such as plugins and Mods, however I have experience with random other things as well.
 ## Languages
-I am pretty good with Java, and I am alright with Javascript and Python. 
+I am pretty good with Java, and I am alright with Javascript and Python, and C#. 
 
-I am currently in the process of learning C.
+I am currently in the process of learning C and C++.
 
-I would also like to learn C#, and C++
+I would like to learn Lua
 
 ## Projects
 My main project right now is SimpleExploit fixer, It seeks to patch many exploits mainly lag inducing ones! If you would like to report an exploit, you can make a pull request, or you can contact me in one of the methods below. 
