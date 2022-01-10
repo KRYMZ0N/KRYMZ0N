@@ -1,16 +1,12 @@
 ## KRYMZ0N
 Hello, I'm KRYMZ0N. I mainly do Minecraft stuff such as plugins and Mods, however I have experience with random other things as well.
 ## Languages
-I am pretty good with Java, and I am alright with Javascript and Python, and C#. 
+I am pretty good with Java and C#, but I can do stuff with Javascript and python as well.
 
 I am currently in the process of learning C and C++.
 
-I would like to learn Lua
-
 ## Projects
-My main project right now is SimpleExploit fixer, It seeks to patch many exploits mainly lag inducing ones! If you would like to report an exploit, you can make a pull request, or you can contact me in one of the methods below. 
-
-Another project that I have been working on is a 1.16 Fabric Utility Mod called VyperHax!
+My main project right now is FagHax, it is a 1.16.5 FabricMC Utility mod. If you would like to contribute, you can make a Pull request, or you can contact me in one of the methods below. 
 
 ## Info
 Discord - KRYMZ0N#0001
