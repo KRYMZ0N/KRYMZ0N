@@ -6,7 +6,8 @@ I am pretty good with Java and C#, but I can do stuff with Javascript and python
 I am currently in the process of learning C and C++.
 
 ## Projects
-My main project right now is FagHax, it is a 1.16.5 FabricMC Utility mod. If you would like to contribute, you can make a Pull request, or you can contact me in one of the methods below. 
+Not really any main projects at the moment, just trying to revolutionize the anarchy server must have plugin array! 
+Working on a fairly good anti cheat and death message plugin!
 
 ## Info
 Discord - KRYMZ0N#0001
