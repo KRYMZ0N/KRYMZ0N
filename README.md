@@ -15,7 +15,7 @@ Server - https://discord.gg/fustWrP4
 
 Email - 3b3t.me@gmail.com
 
-Discord - KRYMZ0N#0001
+Discord - KRYMZ0N#0001.
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
 
