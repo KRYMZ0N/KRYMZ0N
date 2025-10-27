@@ -1,27 +1,15 @@
 ## KRYMZ0N
-Hello, I'm KRYMZ0N. I mainly do Minecraft stuff such as plugins and Mods, however I have experience with random other things as well.
+👋 Hi, I’m KRYMZ0N — a physics student exploring low-level Game Boy Advance programming. I love digging into hardware, optimizing performance, and pushing the limits of classic systems.
 ## Languages
-I am pretty good with Java and C#, but I can do stuff with Javascript and python as well.
-
-I am currently in the process of learning C and C++.
+I used to work primarily with Java and C#, but now I focus on C and C++, especially for low-level and performance-oriented projects.
 
 ## Projects
-Not really any main projects at the moment, just trying to revolutionize the anarchy server must have plugin array! 
-Working on a fairly good anti cheat and death message plugin!
+GBA rpg in development
 
 ## Info
-
-Server - https://discord.gg/fustWrP4
-
-Email - 3b3t.me@gmail.com
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true)"></p>
 
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&text_color=5baddf&icon_color=FFF&theme=jolly""></p>
   
   <p> <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" /> </p>
-
-## Custom Software
-Yes, I do custom stuff, however I do charge depending on the difficulty
-Of the assignment. Message me in one of the ways listed for more.
-
