@@ -10,3 +10,6 @@ Physics Engines
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KRYMZ0N" alt="KRYMZ0N's GitHub stats" />
 </p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KRYMZ0N&layout=donut&langs_count=7&theme=synthwave" alt="KRYMZ0N's Top Languages" />
+</p>
