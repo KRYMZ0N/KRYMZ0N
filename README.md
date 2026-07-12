@@ -1,20 +1,12 @@
 ## KRYMZ0N
-👋 Hi, I’m KRYMZ0N — a physics student exploring low-level Game Boy Advance programming. I love digging into hardware, optimizing performance, and pushing the limits of classic systems.
+👋 Hi, I’m KRYMZ0N — a physics student passionate about high-performance systems and engine development. I focus on building robust, optimized software and exploring the mechanics behind complex simulations.
 ## Languages
-I used to work primarily with Java and C#, but now I focus on C and C++, especially for low-level and performance-oriented projects.
+I used to work primarily with Java and C#, but now I focus primarily on C++, especially for low-level and performance-oriented projects.
 
 ## Projects
-GBA rpg in development
+Physics Engines
 
 ## Info
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KRYMZ0N&theme=jolly&show_icons=true" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRYMZ0N&layout=compact&text_color=5baddf&icon_color=FFF&theme=jolly" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRYMZ0N" alt="KRYMZ0N" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KRYMZ0N" alt="KRYMZ0N's GitHub stats" />
 </p>
